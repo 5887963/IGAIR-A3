@@ -1,7 +1,14 @@
 ==========
-v0.0.1: Initial Upload
+v0.1.0.alpha: IG Security Force Rifleman
 -----
-+ igair-init.pbo: binary that initializes the framework for the rest of the mods.
++ igair_fi_igsec.pbo: binary that adds the "IG Security Force" faction. (only unarmed variant)
++ img source files
+/ binary names changed to use underscores
+/ changelog typo
+=====
+v0.0.1.alpha: Initial Upload
+-----
++ igair_init.pbo: binary that initializes the framework for the rest of the mods.
 + CodyBurton.bikey: for sig-verification.
 + igair.paa: PAA file in the style of the IGAIR logo.
 + license: gnu-gpl-v3 (will be changed to an arma-certified license soon!

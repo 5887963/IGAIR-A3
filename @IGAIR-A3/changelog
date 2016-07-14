@@ -1,0 +1,10 @@
+==========
+v0.0.1: Initial Upload
+-----
++ igair-init.pbo: binary that initializes the framework for the rest of the mods.
++ CodyBurton.bikey: for sig-verification.
++ igair.paa: PAA file in the style of the IGAIR logo.
++ license: gnu-gpl-v3 (will be changed to an arma-certified license soon!
++ mod.cpp: CPP file contain information required by the RV-engine.
++ readme: blank file for build, will be done soon.
+==========
